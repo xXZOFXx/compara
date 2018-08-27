@@ -1,0 +1,73 @@
+*{
+  font-family: arial;
+  margin: 0px;
+  padding:0px;
+}
+
+.header{
+  width: 100%;
+  height: 50px;
+  background-color:rgb(65, 70, 70);
+  text-align: center;
+}
+
+.main{
+  text-align: center;
+  font-family: arial;
+  color: rgb(56, 136, 219);
+  font-size: 350%
+}
+.main2{
+  text-align: center;
+  font-family: arial;
+  color: rgb(190, 204, 207);
+  font-size: 200%;
+}
+
+.forma{
+  width: 50%;
+  background: white;
+  border-radius: 5px;
+  display: block;
+  margin: 0px auto;
+  padding: 20px;
+  border: 1px solid black;
+}
+
+
+.forma input{
+  width: 100%;
+  height: 30px;
+  background:white;
+  border: 1px solid black;
+  border-radius: 5px
+
+}
+
+.grupo{
+  margin-top: 20px;
+  text-align: center;
+}
+
+label{
+
+    font-size: 18px;
+}
+
+button{
+  color: rgb(78, 171, 21);
+  width: 50%;
+  height: 30px;
+  background:white;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+.opcion{
+  width: 50%;
+  height: 30px;
+  background:white;
+  border: 1px solid black;
+  border-radius: 5px
+}
